@@ -1,0 +1,104 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - table [ref=e2]:
+    - rowgroup [ref=e3]:
+      - 'row "AdactIn Group Adactin Group: Hotel Reservation System" [ref=e4]':
+        - cell "AdactIn Group" [ref=e5]:
+          - img "AdactIn Group" [ref=e6]
+        - 'cell "Adactin Group: Hotel Reservation System" [ref=e7]':
+          - 'img "Adactin Group: Hotel Reservation System" [ref=e8]'
+      - row [ref=e9]:
+        - cell [ref=e10]
+  - table [ref=e11]:
+    - rowgroup [ref=e12]:
+      - row "Welcome to Adactin Group of Hotels Hello Aymentest123! Search Hotel | Booked Itinerary | Change Password | Logout" [ref=e13]:
+        - cell "Welcome to Adactin Group of Hotels" [ref=e14]
+        - cell "Hello Aymentest123! Search Hotel | Booked Itinerary | Change Password | Logout" [ref=e15]:
+          - textbox [ref=e16]: Hello Aymentest123!
+          - link "Search Hotel" [ref=e17] [cursor=pointer]:
+            - /url: SearchHotel.php
+          - text: "|"
+          - link "Booked Itinerary" [ref=e18] [cursor=pointer]:
+            - /url: BookedItinerary.php
+          - text: "|"
+          - link "Change Password" [ref=e19] [cursor=pointer]:
+            - /url: ChangePassword.php
+          - text: "|"
+          - link "Logout" [ref=e20] [cursor=pointer]:
+            - /url: Logout.php
+      - row "Booked Itinerary Search Order Id Go Order Id Cancel Hotel Name Location Rooms First Name Last Name Arrival Date Departure Date No. of Days Rooms Type Price per Night Total Price (incl. GST) 2MI40N7P41 Cancel 2MI40N7P41 Hotel Sunshine Brisbane 2 Rooms Test User 16/02/2026 17/02/2026 1 Days Double" [ref=e21]:
+        - cell "Booked Itinerary Search Order Id Go Order Id Cancel Hotel Name Location Rooms First Name Last Name Arrival Date Departure Date No. of Days Rooms Type Price per Night Total Price (incl. GST) 2MI40N7P41 Cancel 2MI40N7P41 Hotel Sunshine Brisbane 2 Rooms Test User 16/02/2026 17/02/2026 1 Days Double" [ref=e22]:
+          - table [ref=e24]:
+            - rowgroup [ref=e25]:
+              - row "Booked Itinerary Search Order Id Go" [ref=e26]:
+                - cell "Booked Itinerary Search Order Id Go" [ref=e27]:
+                  - table [ref=e28]:
+                    - rowgroup [ref=e29]:
+                      - row "Booked Itinerary Search Order Id Go" [ref=e30]:
+                        - cell "Booked Itinerary" [ref=e31]
+                        - cell [ref=e32]
+                        - cell "Search Order Id Go" [ref=e33]:
+                          - text: Search Order Id
+                          - textbox [ref=e34]
+                          - button "Go" [ref=e35]
+              - row "Order Id Cancel Hotel Name Location Rooms First Name Last Name Arrival Date Departure Date No. of Days Rooms Type Price per Night Total Price (incl. GST) 2MI40N7P41 Cancel 2MI40N7P41 Hotel Sunshine Brisbane 2 Rooms Test User 16/02/2026 17/02/2026 1 Days Double" [ref=e36]:
+                - cell "Order Id Cancel Hotel Name Location Rooms First Name Last Name Arrival Date Departure Date No. of Days Rooms Type Price per Night Total Price (incl. GST) 2MI40N7P41 Cancel 2MI40N7P41 Hotel Sunshine Brisbane 2 Rooms Test User 16/02/2026 17/02/2026 1 Days Double" [ref=e37]:
+                  - table [ref=e38]:
+                    - rowgroup [ref=e39]:
+                      - row "Order Id Cancel Hotel Name Location Rooms First Name Last Name Arrival Date Departure Date No. of Days Rooms Type Price per Night Total Price (incl. GST)" [ref=e40]:
+                        - cell [ref=e41]:
+                          - checkbox [ref=e43]
+                        - cell "Order Id" [ref=e44]:
+                          - strong [ref=e45]: Order Id
+                        - cell "Cancel" [ref=e46]:
+                          - strong [ref=e47]: Cancel
+                        - cell "Hotel Name" [ref=e48]:
+                          - strong [ref=e49]: Hotel Name
+                        - cell "Location" [ref=e50]:
+                          - strong [ref=e51]: Location
+                        - cell "Rooms" [ref=e52]:
+                          - strong [ref=e53]: Rooms
+                        - cell "First Name" [ref=e54]:
+                          - strong [ref=e55]: First Name
+                        - cell "Last Name" [ref=e56]:
+                          - strong [ref=e57]: Last Name
+                        - cell "Arrival Date" [ref=e58]:
+                          - strong [ref=e59]: Arrival Date
+                        - cell "Departure Date" [ref=e60]:
+                          - strong [ref=e61]: Departure Date
+                        - cell "No. of Days" [ref=e62]:
+                          - strong [ref=e63]: No. of Days
+                        - cell "Rooms Type" [ref=e64]:
+                          - strong [ref=e65]: Rooms Type
+                        - cell "Price per Night" [ref=e66]:
+                          - strong [ref=e67]: Price per Night
+                        - cell "Total Price (incl. GST)" [ref=e68]:
+                          - strong [ref=e69]: Total Price (incl. GST)
+                      - row "2MI40N7P41 Cancel 2MI40N7P41 Hotel Sunshine Brisbane 2 Rooms Test User 16/02/2026 17/02/2026 1 Days Double" [ref=e70]:
+                        - cell [ref=e71]:
+                          - checkbox [ref=e72]
+                        - cell "2MI40N7P41" [ref=e73]:
+                          - textbox [ref=e74]: 2MI40N7P41
+                        - cell "Cancel 2MI40N7P41" [ref=e75]:
+                          - button "Cancel 2MI40N7P41" [ref=e76]
+                        - cell "Hotel Sunshine" [ref=e77]:
+                          - textbox [ref=e78]: Hotel Sunshine
+                        - cell "Brisbane" [ref=e79]:
+                          - textbox [ref=e80]: Brisbane
+                        - cell "2 Rooms" [ref=e81]:
+                          - textbox [ref=e82]: 2 Rooms
+                        - cell "Test" [ref=e83]:
+                          - textbox [ref=e84]: Test
+                        - cell "User" [ref=e85]:
+                          - textbox [ref=e86]: User
+                        - cell "16/02/2026" [ref=e87]:
+                          - textbox [ref=e88]: 16/02/2026
+                        - cell "17/02/2026" [ref=e89]:
+                          - textbox [ref=e90]: 17/02/2026
+                        - cell "1 Days" [ref=e91]:
+                          - textbox [ref=e92]: 1 Days
+                        - cell "Double" [ref=e93]:
+                          - textbox [ref=e94]: Double
+```
