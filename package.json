@@ -1,0 +1,20 @@
+{
+  "name": "aymenshakil_22k-4659_adactinautomation",
+  "version": "1.0.0",
+  "description": "Playwright automation framework for Adactin Hotel application",
+  "scripts": {
+    "test:e2e": "npx playwright test tests/e2e",
+    "test:positive": "npx playwright test tests/positive",
+    "test:negative": "npx playwright test tests/negative"
+  },
+  "keywords": ["playwright","automation","testing","hotel-booking"],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0",
+    "dotenv": "^17.3.1"
+  }
+ 
+}
